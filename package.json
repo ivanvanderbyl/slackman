@@ -1,0 +1,11 @@
+{
+  "name": "slackman",
+  "version": "0.0.1",
+  "description": "Simple HTTP/S service monitor which notifies Slack when something is broken",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Ivan Vanderbyl",
+  "license": "MIT"
+}
